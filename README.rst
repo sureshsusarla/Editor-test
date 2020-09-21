@@ -1,40 +1,23 @@
-Simple online editor for reStructuredText on Flask.
+============
+Part title..
+============
+Section title..
+===============
+Paragraph title..
+*****************
+Subsection title..
+------------------
+- fgfghf
+- kjhgk
+- hjkhkjhjk
 
-Try it where: http://rst.ninjs.org/
+1. jj
+2. ll
+3. hh
 
-Getting setup
--------------
-
-Requirements for rsted:
-
-* Flask
-* rst2html (from Docutils)
-
-These requirements are expressed in the pip-requirements.txt file and may be
-installed by running the following (from within a virtual environment)::
-
-    pip install -r pip-requirements.txt
+.. image:: data:image/png;base64,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
 
 
-How to run
-----------
 
-Your Environment
-++++++++++++++++
-From within your environment, just run::
 
-    ./application.py
-
-This will start a server on port 5000.  Just visit http://localhost:5000/ in
-your browser.
-
-Docker
-++++++
-In a docker installed host, just build and run::
-
-    docker build -t rsted .
-    docker run --name rsted --rm -p 5000:5000 rsted
-
-A server starts on port 5000. Please adjust it, if you need another port
-by changing run command above. And then just visit http://localhost:5000/ in
 your browser.
