@@ -1,8 +1,8 @@
-============
-Part title..
-============
-Section title..
-===============
+================
+Tech editor test
+=======================
+Static Webpage Creation
+=======================
 Paragraph title..
 *****************
 Subsection title..
