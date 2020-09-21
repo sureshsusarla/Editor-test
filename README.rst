@@ -3,16 +3,16 @@ Tech editor test
 =======================
 Static Webpage Creation
 =======================
-Paragraph title..
+Entering Details
 *****************
-Subsection title..
+What to enter
 ------------------
-- fgfghf
-- kjhgk
-- hjkhkjhjk
+- Proj Name
+- Author
+- Create fork
 
-1. jj
-2. ll
-3. hh
+1. Commit
+2. Confirm
+3. Edit
 
-.. image:: 
+The following table describes the steps
